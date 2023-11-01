@@ -31,3 +31,12 @@
 
 经过以上步骤生成的tflite文件，可直接使用官方例子([使用 TensorFlow Lite (Android) 构建和部署自定义对象检测模型 (google.cn)](https://developers.google.cn/codelabs/tflite-object-detection-android?hl=zh-cn#4))中的安卓代码，直接将tflite文件替换即可
 
+
+
+## 效果图
+
+![](./imgs/img_1.jpg)
+
+![](./imgs/img_2.jpg)
+
+![](./imgs/img_3.jpg)
